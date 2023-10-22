@@ -1,0 +1,138 @@
+/* CONTENT */
+
+.content {
+    width: 1000px;
+    margin: 80px auto;
+}
+
+
+/* NAVBAR */
+
+.container {
+    margin: auto;
+    width: 100%;
+    background: #87ceea;
+    position: relative;
+    /* padding: 10px; */
+}
+
+.navbar {
+    height: 25px;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    margin-left: 7%;
+    padding-bottom: 35px;
+    padding-left: 30px;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+#nav-tugas {
+    margin-left: 700px;
+}
+
+.nav-brand-link {
+    display: block;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-link {
+    padding: 25px;
+    color: #000;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+
+/* CONTENT - HOME */
+
+.home {
+    padding: 20px;
+    width: 800px;
+    margin: 80px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.utm,
+.informatika,
+.cerita {
+    text-align: center;
+}
+
+.utm img {
+    width: 800px;
+    border-radius: 10px;
+}
+
+.utm p {
+    text-align: justify;
+}
+
+.utm ol li {
+    text-align: justify;
+}
+
+.informatika p {
+    text-align: justify;
+}
+
+.informatika ol li {
+    text-align: justify;
+}
+
+.cerita p {
+    text-align: justify;
+}
+
+
+/* CONTENT - ABOUT */
+
+.about {
+    padding: 20px;
+    width: 800px;
+    margin: 80px auto;
+}
+
+.bio {
+    padding: 15px;
+    background-color: #cbeaf5;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.content-bio {
+    margin-left: 55px;
+    padding-left: 200px;
+}
+
+.table-bio tr td {
+    font-weight: bold;
+}
+
+.sosmed img {
+    margin-right: 20px;
+}
+
+
+/* CONTENT - TUGAS */
+
+.tugas {
+    padding: 20px;
+    width: 800px;
+    margin: 80px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.img-aini {
+    padding-top: 30px;
+}
